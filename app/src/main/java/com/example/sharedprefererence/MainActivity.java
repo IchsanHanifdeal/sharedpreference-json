@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
             umur.setText(String.valueOf(user.getAge()));
             jurusan.setText(user.getJurusan());
             prodi.setText(user.getProdi());
-            email.setText(user.getEmail);
+            email.setText(user.getEmail());
 
             btnDelete.setEnabled(true);
         });
