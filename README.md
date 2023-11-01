@@ -37,7 +37,7 @@ Distributed under the MIT License. Lihat `LICENSE` untuk informasi lebih lanjut.
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, Anda dapat menghubungi [Ichsan Hanifdeal] di [ichsanhanifdeal@gmail.com].
+Jika Anda memiliki pertanyaan atau saran, Anda dapat menghubungi saya di ichsanhanifdeal@gmail.com.
 
 Terima kasih telah menggunakan proyek ini!
 ```
